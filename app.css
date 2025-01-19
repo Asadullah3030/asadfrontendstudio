@@ -128,7 +128,7 @@ header{
     
 }
 .logo a img {
-    width: 21.5rem;
+    width: 20.5rem;
 }
 .header-icon img{
     display: none;
@@ -182,8 +182,8 @@ header{
     header{
         padding: 1rem 1.5rem;
     }
-    .logo a img{
-        font-size: 10rem;
+    .logo a img {
+        width: 18rem;
     }
 }
 /* Header is End ///////////////////////////////////////////////////////////////////////  ✅🚸 */ 
@@ -221,29 +221,29 @@ header{
 .hero-line-one h1 span{
     font-family: DomaineDisplayNarrow;
     display: inline-block;
-    font-size: 5.9rem;
+    font-size: 5rem;
 }
 .hero-line-Two h1 span {
     font-family: marqueeFont;
     display: inline-block;
     text-align: center;
-    font-size: 7rem;
+    font-size: 6rem;
     font-weight: 300;
 }
 .hero-line-Three h1 span{
     font-family: finalFont;
     display: inline-block;
     text-align: center;
-    font-size: 7.5rem;
+    font-size: 7rem;
     font-weight: 500;
 }
 .hero-line-Four h1 span{
     font-family: marqueeFont;
     display: inline-block;
     text-align: center;
-    font-size: 7rem;
+    font-size: 6rem;
     font-weight: 400;
-    letter-spacing: 4rem;
+    letter-spacing: 3rem;
 }
 @media screen and (max-width:992px) {
     .hero-line-one h1 span{
