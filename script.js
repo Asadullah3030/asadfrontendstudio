@@ -676,37 +676,37 @@ var swiper = new Swiper(".mySwiper", {
       {
           title: 'Web Application 2021',
           heading: 'Beautiful website fully Analysis, design and complete frontend implementation.',
-          myImage: 'Images/Gettree-Project6.webp',
+          myImage: 'images/Gettree-Project6.webp',
           link: 'gettreeDetail.html' // Link to the page for this project
       },
       {
           title: 'Creative Epic Site',
           heading: 'Implement new Technologies like GSAP,ScrollTrigger and creative animation',
-          myImage: 'Images/Epic-Project2.webp',
+          myImage: 'images/Epic-Project2.webp',
           link: 'epicDetails.html' // Link to the page for this project
       },
       {
         title: 'Magmas 2023',
         heading: 'Internal web application massive creative design',
-        myImage: 'Images/Magmas-Project3.webp',
+        myImage: 'images/Magmas-Project3.webp',
         link: 'magmaDetails.html' // Link to the page for this project
     },
     {
       title: 'Rejuice New LoOk 2022',
       heading: 'Internal web application massive creative design',
-      myImage: 'Images/Rejuice-Project1.webp',
+      myImage: 'images/Rejuice-Project1.webp',
       link: 'rejuiceDetails.html' // Link to the page for this project
   },
   {
     title: 'Finsa OutStanding 2023 - 2024',
     heading: 'Beautiful full flesh web application massive creative design',
-    myImage: 'Images/Finsa-Project4.webp',
+    myImage: 'images/Finsa-Project4.webp',
     link: 'finsaDetails.html' // Link to the page for this project
 },
 {
   title: 'DigitalBit Social Media 2023',
   heading: 'Great full flesh web application for social media',
-  myImage: 'Images/Digitalbit-Project7.webp',
+  myImage: 'images/Digitalbit-Project7.webp',
   link: 'digitalDetails.html' // Link to the page for this project
 },{
   title: 'InstaDp Social Site 2023',
@@ -716,17 +716,17 @@ var swiper = new Swiper(".mySwiper", {
 },{
   title: 'LiveCount Social 2024',
   heading: 'Complete fully flesh web application for social media',
-  myImage: 'Images/Livecount-Project8.webp',
+  myImage: 'images/Livecount-Project8.webp',
   link: 'liveCountDetails.html' // Link to the page for this project
 },{
   title: 'RedStore e-commerce 2024',
   heading: 'Complete commerce site in frontend',
-  myImage: 'Images/RedStore-Project5.webp',
+  myImage: 'images/RedStore-Project5.webp',
   link: 'redStoreDetails.html' // Link to the page for this project
 },{
   title: 'DavidChang stylish site 2024',
   heading: 'Modern and Beautiful Site in Shery.js',
-  myImage: 'Images/Davidchang-Project10.webp',
+  myImage: 'images/Davidchang-Project10.webp',
   link: 'davidChangDetails.html' // Link to the page for this project
 },
   ];
