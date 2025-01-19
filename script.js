@@ -711,7 +711,7 @@ var swiper = new Swiper(".mySwiper", {
 },{
   title: 'InstaDp Social Site 2023',
   heading: 'Beautiful fully flesh web application for social media',
-  myImage: 'Images/instaDp-Project9.webp',
+  myImage: 'images/instaDp-Project9.webp',
   link: 'instaDpDetails.html' // Link to the page for this project
 },{
   title: 'LiveCount Social 2024',
