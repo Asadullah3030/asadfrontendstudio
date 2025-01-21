@@ -978,6 +978,9 @@ table {
     width: 23rem;
     text-align: center;
 }
+.footer-logo a img{
+    width: 21.6rem;
+}
 .Footer-logo-headings{
     font-size: 1.7rem;
 }
@@ -1071,9 +1074,11 @@ table {
 /* footer social media section  is end*/
 
 @media screen and (max-width:768px) {
-    .footer-logo h4{
-        padding-left: 0rem;
-        padding-top: 0.4rem;
+    .Footer-logo-headings{
+        font-size: 1.6rem;
+    }
+    .footer-logo a img {
+        width: 18.5rem;
     }
 }
 @media screen and (max-width:500px) {
