@@ -913,6 +913,10 @@ table {
 ::placeholder{
     color: whitesmoke;
 }
+.logo svg {
+    width: 200px;
+    height: auto;
+}
 .from_tag button{
     cursor: pointer;
     color:rgb(0, 0, 0);
